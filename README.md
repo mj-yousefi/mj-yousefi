@@ -18,7 +18,12 @@
 - 👋 Hey everyone, I'm Mohamammadjavad Yousefi AKA @mj-yousefi
 - 👀 I’m interested in machine learning, machine vision, and statistical inference.
 - 💞️  Here, I look forward to sharing my knowledge in the data science field, and I share both simple and complicated AI projects to first help understand better how the algorithms work and use them in real projects.
-- 📫 You can reach me at
+- 📫 You can reach me at:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mjyousefi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 
  <br/>
