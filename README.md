@@ -32,14 +32,15 @@
 
 ```yaml
 name: Mohamammadjavad Yousefi
-job: Data Scientist (3Click)
+job: Data Scientist (SnappFood)
 education: ["Master's in Computer Engineering", "Bachelor's in Computer Engineering"]
-company: Deltaban Travel Agency - 3click.com
+company: SnappFood
 past experiences: 
-  - ["Sr Data Scientist", "Medal Electronic", "Iran", "2020-2022"]
-  - ["Software Engineer", "Tehran Internet", "Iran", "2017-2019"]
+  - ["AI Team Lead", "3click.com", "2022-2024"]
+  - ["Sr Data Scientist", "Medal Electronic", "2020-2022"]
+  - ["Software Engineer", "Tehran Internet", "2017-2019"]
 
-fields_of_interests: ["Deep Learning", "MLOps", "Machine Learning", "Machine Vision", 
+fields_of_interests: ["Machine Learning", "Deep Learning", "MLOps", "Machine Learning", "Machine Vision", 
                       "User Segmentation", "Recommender Systems"]
 currently_learning: ["MLOps", "FastApi"]
 hobbies: ["Gym", "Virtual Reality", "Board Games and Video Games", "Books"]
